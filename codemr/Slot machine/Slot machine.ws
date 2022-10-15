@@ -1,1 +1,0 @@
-{"Slot machine":{"name":"Slot machine","packages":{"":{"packageName":"","isAll":false,"classes":["LUser","LLogic","LMoneyController","LMain","LSpin","LSpin.Symbols"]}}}}
